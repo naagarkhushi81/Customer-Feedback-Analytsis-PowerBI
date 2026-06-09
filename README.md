@@ -57,9 +57,24 @@ The dataset contains customer feedback records including:
 
 ---
 
-## Dashboard Screenshots
+## Dashboard_Overview
+![Dashboard_Overview](Screenshots/Dashboard_Overview.png)
 
-(Add screenshots here)
+## Customer_Satisfaction
+
+![Customer_Satisfaction](Screenshots/Customer_Satisfaction.png)
+
+## Purchase By City
+
+![Purchase By City](Screenshots/Purchase_By_City.png)
+
+## Customer_Complaint_Distribution
+
+![Customer_Complaint_Distribution](Screenshots/Customer_Complaint_Distribution.png)
+
+## Monthly_Trends
+
+![Monthly_Trends](Screenshots/Monthly_Trends.png)
 
 ---
 
