@@ -1,4 +1,4 @@
-# Customer-Feedback-Analytsis-PowerBI
+# Customer-Feedback-Analysis-PowerBI
 Customer Feedback Analysis Dashboard built using Power BI to identify customer satisfaction trends, key drivers, and business insights.
 # Customer Feedback Analysis Dashboard
 
